@@ -1,4 +1,4 @@
-2
+3
 Ethereum Forces
 2
 2.7.1
@@ -27,3 +27,7 @@ Preview 8
 https://www.dropbox.com/s/aqzgev1m3qfacui/CL%20ModPack%20Preview8.zip?dl=1
 Preview 7.1
 https://www.dropbox.com/s/om9gibrf09rwkp4/CL%20ModPack%20Preview7.1.zip?dl=1
+Derestricted
+1
+2.4
+https://cdn.discordapp.com/attachments/376103880259403776/771945765845205043/TPD_2.4.zip
