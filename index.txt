@@ -1,10 +1,12 @@
 3
 Ethereum Forces
-2
+3
 2.7.1
 https://www.dropbox.com/scl/fi/so11uftairbvf23p9bzax/EF-ModPack-2.7.1.zip?rlkey=093cc5ei5383b8ea7io7083pa&dl=1
 2.7
 https://www.dropbox.com/scl/fi/ycdyfrkbf6xsz9460p6su/EF-ModPack-2.7.zip?rlkey=vghbo9ut4vmcv5lifuwarfd9a&dl=1
+2.6
+https://www.dropbox.com/scl/fi/jvvbcz12d8me90kfd7gx4/EF-ModPack-2.6.zip?rlkey=5zktpys55dvhrqod38fue5wfg&dl=1
 Crescentia's Legacy
 10
 Preview 16
