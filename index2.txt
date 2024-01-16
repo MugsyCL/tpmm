@@ -52,10 +52,7 @@ Preview 7.1
 https://www.dropbox.com/s/om9gibrf09rwkp4/CL%20ModPack%20Preview7.1.zip?dl=1
 Changes from last version:\n -Fixed bug where ships were unable to undock\n -Reduced crew food consumption by 50%\n -Reduced keyboard sensitivity when controlling the camera\n -Increased mouse sensitivity when controlling the camera\n -Fixed standard weapon layouts for pirate schooner and barque\n -Fixed ship health bars being upside down\n -The player ship now has priority over AI ships when docking\n -Added warning that shows up if the game needs to be run in admin mode\n -Added unique cargo models for different items\n -Added new sail folding icons
 Derestricted
-2
+1
 2.4
 https://cdn.discordapp.com/attachments/376103880259403776/771945765845205043/TPD_2.4.zip
 Lets you install any weapon on any mount
-EF 2.4
-https://www.dropbox.com/scl/fi/0sb7r5ze3rev4jlyohghc/ef-2.4-derestricted.zip?rlkey=muf4v0e4nxs6cxybohhgajm5h&dl=0
-Lets you install any weapon on any mount (EF version)
