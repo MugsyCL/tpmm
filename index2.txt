@@ -1,0 +1,61 @@
+3
+Ethereum Forces
+6
+2.7.1
+https://www.dropbox.com/scl/fi/so11uftairbvf23p9bzax/EF-ModPack-2.7.1.zip?rlkey=093cc5ei5383b8ea7io7083pa&dl=1
+Modpack patch to fix bugs/add stuff. Requires vanilla install if upgrading from 2.6 or lower. Can be installed over 2.7.\n-Fixed Open Bayle's Stand spawn positions\n-Redesigned Procyon Flagship sails\n-Added Procyon Ketch: a cutter-sized artillery ship with heavy weapons.\n-Fixed various unused islands/base collision boxes\n-Fixed Grumm crew. Zurrum crew disabled for the time being\n-Removed medium lancers from Navy and light plasmas from Pirates\n-Added full repair tenders to Wellington's Ring\n-Added optional vanilla textures 
+2.7
+https://www.dropbox.com/scl/fi/ycdyfrkbf6xsz9460p6su/EF-ModPack-2.7.zip?rlkey=vghbo9ut4vmcv5lifuwarfd9a&dl=1
+Changelog:\n-Instruction manual\n\n-4 New Playable Ships:\nPirate Caravel: A frigate-sized Gentuin pirate ship with a heavy focus on broadside firepower and survivability.\nPirate Warsloop: A better version of the Navy Warsloop\nImperial Patrol Boat: A stripped down version of the Torpedo Boat, trading its torpedoes for standard light mounts and a large price discount.\nProcyon Torpedo Boat: An armed conversion of a Civilian Fishing Jig, equipped with torpedo launchers and a light mount.\n\n-Procyon Defense Monitor has been demoted to NPC ship.\n\n-7 New NPC Ships:\nCivilian Etherium Liner: A massive Procyon merchant ship designed to carry passengers and cargo to distant ports.\nCivilian Heavy Schooner: A mid-sized bermuda-rigged Procyon merchant vessel.\nCivilian Dogger: A small bermuda-rigged Procyon fishing boat.\nCivilian Jigger: Another small Procyon fishing boat.\nCivilian Tug: A Terran tugboat that serves as the basis for the Pirate Tug.\nCivilian Supply Barge: A large self-propelled cargo barge. While it can operate under its own power, it is most often towed.\nCivilian Ferry: A small passenger ship designed to operate short distances between ports, or down to planets.\n\n-Ship Redesigns:\nPirate Brig: Is now smaller and loses weaponry, but is faster and regains its PD weaponry for use as a picket ship.\nProcyon Monitor: Is no longer an angry Pepsi can. Is now a crushed Pepsi can.\nProcyon Casemate: Completely redesigned with more weaponry.\nProcyon Corvette: Completely redesigned. Forward medium mount is replaced with a heavy mount, and Mega laser cannon is replaced with a railgun.\nCivilian Cog: Redesigned.\nImperial Elite Ships: Retextured and remodeled to match the aesthetic of the RLS Lyonesse. \n\n-Maps:\nWinds of Menel: A new open map set deep within the Sirius sector in the Procyon Expanse, with new town and Island models.\nWellington's Ring: Has been redesigned and rebalanced via new mapmaking techniques. Other maps to follow.\nIron War, Storm Front, The Maw, and Ambush have been added as open maps. Bayles Stand and Locusts have been added as open faction maps.\nAdded civilian ships to Broken Lands and Zilthia Grand Archipelago.\n\n-Re-added flamethrower as a heavy mount with a new model. Medium harpoon also gets its own model.\n\n-Many many balancing changes.\n\nKnown Bugs:\n-New NPC ships lack damage meshes/have buggy damage meshes\n\nModeling credits go to Robotic Rampage, Torrrington , and Mugsy
+2.6
+https://www.dropbox.com/scl/fi/jvvbcz12d8me90kfd7gx4/EF-ModPack-2.6.zip?rlkey=5zktpys55dvhrqod38fue5wfg&dl=1
+
+2.5.1
+https://www.dropbox.com/scl/fi/ptj3vu29gexpsv1qm2fzo/EF-ModPack-2.5.1.zip?rlkey=j2pwc7qjiqrntql1jmntct3fs&dl=1
+
+2.5
+https://www.dropbox.com/scl/fi/jva2r9sqnez58sre5f25l/EF-ModPack-2.5.zip?rlkey=xog0daeotracj0qm1rwiah80p&dl=1
+
+2.4
+https://www.dropbox.com/scl/fi/lwpc8irwahoodp77ate68/EF-ModPack-2.4.zip?rlkey=v8bizg4u80q8np93axsdvyr70&dl=1
+
+Crescentia's Legacy
+10
+Preview 16
+https://www.dropbox.com/scl/fi/rtem64l17wnld0evefs8w/CL-ModPack-Preview16.zip?rlkey=yvkry5q8748d7uagm6guus4eu&dl=1
+
+Preview 15
+https://www.dropbox.com/scl/fi/k6o437aalw472ruyxz0ga/CL-ModPack-Preview15.zip?rlkey=t5kxcfp1r3vxpougda6sjr20x&dl=1
+
+Preview 14.1
+https://www.dropbox.com/s/kkmwhwyd1t5mwhm/CL%20ModPack%20Preview14.1.zip?dl=1
+
+Preview 13.1
+https://www.dropbox.com/s/sn5k2re2e4wselt/CL%20ModPack%20Preview13.1.zip?dl=1
+
+Preview 12
+https://www.dropbox.com/s/chfi2a71wr0tsnw/CL%20ModPack%20Preview12.zip?dl=1
+
+Preview 11
+https://www.dropbox.com/s/yo9jgs6r2qxilem/CL%20ModPack%20Preview11.zip?dl=1
+
+Preview 10
+https://www.dropbox.com/s/ynyqjzri02g9ak4/CL%20ModPack%20Preview10.zip?dl=1
+
+Preview 9
+https://www.dropbox.com/s/zeze7lgydcf62tm/CL%20ModPack%20Preview9.zip?dl=1
+
+Preview 8
+https://www.dropbox.com/s/aqzgev1m3qfacui/CL%20ModPack%20Preview8.zip?dl=1
+
+Preview 7.1
+https://www.dropbox.com/s/om9gibrf09rwkp4/CL%20ModPack%20Preview7.1.zip?dl=1
+
+Derestricted
+2
+2.4
+https://cdn.discordapp.com/attachments/376103880259403776/771945765845205043/TPD_2.4.zip
+Lets you install any weapon on any mount
+EF 2.4
+https://www.dropbox.com/scl/fi/0sb7r5ze3rev4jlyohghc/ef-2.4-derestricted.zip?rlkey=muf4v0e4nxs6cxybohhgajm5h&dl=0
+Lets you install any weapon on any mount (EF version)
