@@ -1,4 +1,4 @@
-3
+4
 Ethereum Forces
 7
 2.7.1
@@ -54,6 +54,11 @@ Changes from last version:\n -Added torpedo boat\n -Added navy and pirate minela
 Preview 7.1
 https://www.dropbox.com/s/om9gibrf09rwkp4/CL%20ModPack%20Preview7.1.zip?dl=1
 Changes from last version:\n -Fixed bug where ships were unable to undock\n -Reduced crew food consumption by 50%\n -Reduced keyboard sensitivity when controlling the camera\n -Increased mouse sensitivity when controlling the camera\n -Fixed standard weapon layouts for pirate schooner and barque\n -Fixed ship health bars being upside down\n -The player ship now has priority over AI ships when docking\n -Added warning that shows up if the game needs to be run in admin mode\n -Added unique cargo models for different items\n -Added new sail folding icons
+Black Flag
+1
+Alpha 2 (ENG)
+https://www.dropbox.com/scl/fi/jhn250gw9y22vsocpz5k7/Black-Flag-Alpha-version-2-ENG.zip?rlkey=c9h9oq1o6nwoay0q5fmunipeo&dl=0
+The second update of the "Black Flag mod" by Den Razek.\n\nThe mod includes all innovations up to and including June 15.\n\nAdded new ships, maps and flags. The name of the Empire (Navy) faction has been replaced with Terran. Some new flags are placed instead of the original ones and they can be selected in the main menu.
 Derestricted
 2
 2.4 (EF)
