@@ -25,7 +25,7 @@ ModPack version 2.4 is out:\nGeneral changelog\n-4 New ships w/models:\n    -Imp
 Crescentia's Legacy
 12
 Preview 18
-https://www.dropbox.com/scl/fi/2ra4pyg0oep3yb6hksdjf/CL-ModPack-Preview18.zip?rlkey=zo34ktweaf7brz53kotwbogzd&st=rfgead8z&dl=1
+https://www.dropbox.com/scl/fi/kj5nsa8zz7fp8la8aairy/CL-ModPack-Preview18.zip?rlkey=v5bdb0wg4nlhj7pvk27olk66o&st=pngalwmm&dl=1
 Changes from last version:\n-Reworked boarding system to allow boarding with multiple ships at once\n-Ported missing historical skirmish maps from vanilla\n-Added maps "Boarding Party" and "King of the Hill" to test new boarding mechanic\n-Added map "Arcade" to test new scripting system\n-Updated to newest version of unity (performance should be better)\n-Added experimental VR mode
 Preview 17
 https://www.dropbox.com/scl/fi/joeu7nuhqflzcjnag8tbo/CL-ModPack-Preview17.zip?rlkey=mn9v4u3wdzl38z5b581gb3djf&st=11gq8773&dl=1
