@@ -23,7 +23,13 @@ ModPack version 2.5 is out:\n-8 New ships w/models:\n    -Imperial Brigantine: L
 https://www.dropbox.com/scl/fi/lwpc8irwahoodp77ate68/EF-ModPack-2.4.zip?rlkey=v8bizg4u80q8np93axsdvyr70&dl=1
 ModPack version 2.4 is out:\nGeneral changelog\n-4 New ships w/models:\n    -Imperial Warbrig: Armed civilian packet/brig\n    -Procyon Corvette: Light Procyon scout/command ship\n    -Procyon Assault Cutter: Tier 2 Procyon escort ship\n    -Pirate Casemate: Destroyer-sized ironclad warship, replaces pirate destroyer\n-2 New artillery StarHammer/IceFist variants with mega plasma cannons\n-Imperial command ships removed from multiplayer\n-2 New maps: Ashall Cove, Rings of Ringo\n-New weapon: Tuskrus fire\n-Damage reworked to give certain weapons higher damage to certain materials\n-Ship mass and core HP reworked based on size\n-Various maneuverability section and core damage section tweaks\n-Weapon firing arcs overhauled\nShip modeling and nodeing courtesy of Torrrington and Gordon respectively. 
 Crescentia's Legacy
-10
+12
+Preview 18
+https://www.dropbox.com/scl/fi/j8kor4ofe4gzecbsewmzz/CL-ModPack-Preview18.zip?rlkey=9yf5wxf7k31crfwrty1jn5wsv&st=c77mpiuz&dl=1
+???
+Preview 17
+https://www.dropbox.com/scl/fi/joeu7nuhqflzcjnag8tbo/CL-ModPack-Preview17.zip?rlkey=mn9v4u3wdzl38z5b581gb3djf&st=11gq8773&dl=1
+Changes from last version:\n-Added flag selection\n-Added crew voicelines\n-Added save/load functionality to fleet editor\n-Added procyon ship of the line\n-Added civilian tug and barge\n-Added firing range map\n-Added experimental crescentia map
 Preview 16
 https://www.dropbox.com/scl/fi/rtem64l17wnld0evefs8w/CL-ModPack-Preview16.zip?rlkey=yvkry5q8748d7uagm6guus4eu&dl=1
 Changes from last version:\n -Added whales, dragons, and manta rays\n -Ported Iron War, Bayle's Stand, Dragon's Nest, Coldfront, and Zilthia's Grand Archipelago maps\n -Added faction specific UI\n -Added pirate aurora class, trimaran schooner, starhammer barge, fishing boat, and tamed whale\n -Added procyon ketch and casemate\n -Added navy heavy frigate\n -Added gun movement\n\nCredit to Den Razek for the aurora class model
