@@ -23,9 +23,12 @@ ModPack version 2.5 is out:\n-8 New ships w/models:\n    -Imperial Brigantine: L
 https://www.dropbox.com/scl/fi/lwpc8irwahoodp77ate68/EF-ModPack-2.4.zip?rlkey=v8bizg4u80q8np93axsdvyr70&dl=1
 ModPack version 2.4 is out:\nGeneral changelog\n-4 New ships w/models:\n    -Imperial Warbrig: Armed civilian packet/brig\n    -Procyon Corvette: Light Procyon scout/command ship\n    -Procyon Assault Cutter: Tier 2 Procyon escort ship\n    -Pirate Casemate: Destroyer-sized ironclad warship, replaces pirate destroyer\n-2 New artillery StarHammer/IceFist variants with mega plasma cannons\n-Imperial command ships removed from multiplayer\n-2 New maps: Ashall Cove, Rings of Ringo\n-New weapon: Tuskrus fire\n-Damage reworked to give certain weapons higher damage to certain materials\n-Ship mass and core HP reworked based on size\n-Various maneuverability section and core damage section tweaks\n-Weapon firing arcs overhauled\nShip modeling and nodeing courtesy of Torrrington and Gordon respectively. 
 Crescentia's Legacy
-13
-Preview 18
+14
+Preview 19
 https://ishortn.ink/cl_modpack
+Changes from last version:\n-Added abiltiy to customize ship colors\n-Added WIP translations for german, spanish, and russian\n-Added lightning to solar storms\n-Added Broken Lands map\n-Added pirate caravel and fluyt\n-Improved engine effects\n-Improved weapon effects\n-Fixed various bugs
+Preview 18
+https://www.dropbox.com/scl/fi/kj5nsa8zz7fp8la8aairy/CL-ModPack-Preview18.zip?rlkey=v5bdb0wg4nlhj7pvk27olk66o&st=pxfhdyap&dl=1
 Changes from last version:\n-Reworked boarding system to allow boarding with multiple ships at once\n-Ported missing historical skirmish maps from vanilla\n-Added maps "Boarding Party" and "King of the Hill" to test new boarding mechanic\n-Added map "Arcade" to test new scripting system\n-Updated to newest version of unity (performance should be better)\n-Added experimental VR mode
 Preview 17
 https://www.dropbox.com/scl/fi/joeu7nuhqflzcjnag8tbo/CL-ModPack-Preview17.zip?rlkey=mn9v4u3wdzl38z5b581gb3djf&st=11gq8773&dl=1
@@ -62,7 +65,7 @@ https://www.dropbox.com/s/om9gibrf09rwkp4/CL%20ModPack%20Preview7.1.zip?dl=1
 Changes from last version:\n -Fixed bug where ships were unable to undock\n -Reduced crew food consumption by 50%\n -Reduced keyboard sensitivity when controlling the camera\n -Increased mouse sensitivity when controlling the camera\n -Fixed standard weapon layouts for pirate schooner and barque\n -Fixed ship health bars being upside down\n -The player ship now has priority over AI ships when docking\n -Added warning that shows up if the game needs to be run in admin mode\n -Added unique cargo models for different items\n -Added new sail folding icons
 INDEV
 https://www.dropbox.com/scl/fi/cblqohtug5qxhls96k8xk/CL-ModPack-Preview19-INDEV9.zip?rlkey=2uge5b7mn3fgc654zbqfuml5v&st=8zidmab6&dl=1
-Development Version 9
+Development Version
 Black Flag
 1
 Alpha 2 (ENG)
