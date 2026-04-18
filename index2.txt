@@ -1,7 +1,7 @@
 5
 Ethereum Forces
 8
-2.8
+2.8 Pre-Release 3
 https://www.dropbox.com/scl/fi/d1t0n2jsu4w8bh9gnuhw5/2.8-Pre-Release-3.zip?rlkey=djbrpab4akcvlswkgsdzjrkej&e=1&dl=1
 Latest pre-release fixing some bugs from the MP build we've been testing.
 2.7.1
