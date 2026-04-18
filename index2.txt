@@ -1,6 +1,9 @@
 5
 Ethereum Forces
-7
+8
+2.8
+https://www.dropbox.com/scl/fi/d1t0n2jsu4w8bh9gnuhw5/2.8-Pre-Release-3.zip?rlkey=djbrpab4akcvlswkgsdzjrkej&e=1&dl=1
+Latest pre-release fixing some bugs from the MP build we've been testing.
 2.7.1
 https://www.dropbox.com/scl/fi/so11uftairbvf23p9bzax/EF-ModPack-2.7.1.zip?rlkey=093cc5ei5383b8ea7io7083pa&dl=1
 Modpack patch to fix bugs/add stuff.\n-Fixed Open Bayle's Stand spawn positions\n-Redesigned Procyon Flagship sails\n-Added Procyon Ketch: a cutter-sized artillery ship with heavy weapons.\n-Fixed various unused islands/base collision boxes\n-Fixed Grumm crew. Zurrum crew disabled for the time being\n-Removed medium lancers from Navy and light plasmas from Pirates\n-Added full repair tenders to Wellington's Ring\n-Added optional vanilla textures 
